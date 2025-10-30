@@ -1,7 +1,7 @@
 {
-    "name": "",
-    "description": "",
-    "category": "",
+    "name": "my-project",
+    "description": "some description",
+    "category": "Productivity",
     "publisher": {
         "name": "",
         "url": ""
