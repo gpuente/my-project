@@ -1,0 +1,23 @@
+{
+  "documentModelsDir": "./document-models",
+  "editorsDir": "./editors",
+  "processorsDir": "./processors",
+  "subgraphsDir": "./subgraphs",
+  "studio": {
+    "port": 3000
+  },
+  "reactor": {
+    "port": 4001
+  },
+  "packages": [
+    {
+      "packageName": "@powerhousedao/vetra",
+      "version": "latest",
+      "provider": "npm"
+    }
+  ],
+  "vetra": {
+    "driveId": "vetra-8d81524d",
+    "driveUrl": "http://localhost:4001/d/vetra-8d81524d"
+  }
+}
